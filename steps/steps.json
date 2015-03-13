@@ -1,0 +1,86 @@
+[
+    {
+        "uri": "start.html",
+        "id": "title",
+        "class": "title",
+        "data": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "scale": 4,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "batman-intro-for-digital-stewards-meeting.html",
+        "id": "batman-intro-for-digital-stewards-meeting",
+        "class": "step",
+        "data": {
+            "x": 3000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "meshes-batman-vs-olsr.html",
+        "id": "meshes-batman-vs-olsr",
+        "class": "step",
+        "data": {
+            "x": 6000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "compatibility.html",
+        "id": "compatibility",
+        "class": "step",
+        "data": {
+            "x": 12000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "setting-up-a-network.html",
+        "id": "setting-up-a-network",
+        "class": "step",
+        "data": {
+            "x": 15000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "conclusion.html",
+        "id": "conclusion",
+        "class": "step",
+        "data": {
+            "x": 18000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    }
+]

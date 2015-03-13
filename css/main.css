@@ -1,0 +1,7 @@
+li.step p, li.step ul {
+  font-size: smaller; }
+li.step p {
+  padding-top: 1em;
+  padding-bottom: 1em; }
+li.step ul {
+  list-style: inside; }
